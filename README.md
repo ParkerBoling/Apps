@@ -1,2 +1,2 @@
 # space-shooter
-i made a game!
+This website is a website hosted by netlify. A place of my creations.
